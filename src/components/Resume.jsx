@@ -78,9 +78,9 @@ const Resume = () => {
                 <div className="skill-bar-container">
                   <div className="skill-info">
                     <span>Backend (PHP, Java, Python, VB .Net)</span>
-                    <span>70%</span>
+                    <span>50%</span>
                   </div>
-                  <div className="progress-bar"><div className="progress" style={{ width: '70%' }}></div></div>
+                  <div className="progress-bar"><div className="progress" style={{ width: '50%' }}></div></div>
                 </div>
                 <div className="skill-bar-container">
                   <div className="skill-info">
